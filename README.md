@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Network Analysis**
 
-- 💬 Ask me about **security**
+- 💬 Ask me about **Security**
 
 - ⚡ Fun fact **I’m nerd :3**
 
